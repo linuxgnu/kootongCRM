@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'product_id', 1 => 'description', '_autoinc' => false, '_pk' => 'product_id', '_type' => array ( 'product_id' => 'int(10)', 'description' => 'text', ), );?>

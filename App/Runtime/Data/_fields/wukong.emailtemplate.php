@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'template_id', 1 => 'subject', 2 => 'title', 3 => 'content', 4 => 'order_id', '_autoinc' => true, '_pk' => 'template_id', '_type' => array ( 'template_id' => 'int(10)', 'subject' => 'varchar(200)', 'title' => 'varchar(100)', 'content' => 'varchar(500)', 'order_id' => 'int(4)', ), );?>

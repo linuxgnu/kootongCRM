@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'business_id', 1 => 'description', '_autoinc' => false, '_pk' => 'business_id', '_type' => array ( 'business_id' => 'int(10)', 'description' => 'text', ), );?>

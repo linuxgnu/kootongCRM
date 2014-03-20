@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'customer_id', 1 => 'no_of_employees', 2 => 'description', '_autoinc' => false, '_pk' => 'customer_id', '_type' => array ( 'customer_id' => 'int(10) unsigned', 'no_of_employees' => 'varchar(150)', 'description' => 'text', ), );?>
